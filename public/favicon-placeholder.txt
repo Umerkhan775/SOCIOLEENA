@@ -1,0 +1,11 @@
+# This is a placeholder for favicon.ico
+# Replace this file with your actual favicon
+# Recommended sizes: 16x16, 32x32, 48x48 pixels
+# Use a .ico file or PNG formats
+
+# To generate a favicon, you can use:
+# - https://favicon.io/favicon-generator/
+# - https://www.favicon.cc/
+# - Or convert your logo using online tools
+
+# Place your favicon.ico file here to replace this placeholder

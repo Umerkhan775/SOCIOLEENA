@@ -1,0 +1,9 @@
+# Netlify redirects
+# Redirect old URLs to new ones if needed
+# /old-page /new-page 301
+
+# Handle client-side routing for SPA
+/* /index.html 200
+
+# API redirects (if using Netlify functions)
+# /api/* /.netlify/functions/:splat 200
