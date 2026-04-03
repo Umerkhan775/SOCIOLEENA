@@ -41,20 +41,26 @@ const SERVICES = [
 const TESTIMONIALS = [
   {
     quote: "Aleena's Meta Ads strategy completely transformed our ROAS. We saw a 3x increase in sales within the first month of working together.",
-    author: "Sarah J.",
+    author: "Aneesa faiz.",
     company: "LURE",
     image: "https://picsum.photos/seed/sarah/100/100"
   },
   {
     quote: "The Shopify store design is clean, professional, and most importantly, it converts. Our bounce rate dropped by 40% after the redesign.",
-    author: "Ahmed K.",
-    company: "Muqeezayan",
+    author: "Aneesa faiz.",
+    company: "LURE",
     image: "https://picsum.photos/seed/ahmed/100/100"
   },
   {
     quote: "Working with SocioLeena was a breeze. Her social media management kept our brand consistent and growing while we focused on operations.",
-    author: "Team",
-    company: "MUDASSIR SOFTWORKS",
+    author: "Muqeeriyam.",
+    company: "Muqeeriyam Softworks",
+    image: "https://picsum.photos/seed/team/100/100"
+  }
+  {
+    quote: "Aleena audited our Shopify store for free and honestly it was an eye-opener. Slow speed, messy layout, Long checkouts, weak product pages, she caught everything we had been ignoring. Fixed it and our conversions improved noticeably.Didn't expect this much value for free!.",
+    author: "Aaraambh jewellery",
+    company: "Indian Jewelry brand",
     image: "https://picsum.photos/seed/team/100/100"
   }
 ];
